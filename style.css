@@ -1,0 +1,30 @@
+H1{
+    COLOR : #ffffff;
+    text-align:center;
+    padding:20px;
+}
+
+.header{
+    background-color:#3c503d;
+    display:flex;
+    justify-content: space-between;
+} 
+.grid{
+    display:box;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    background-color:#84bbb5
+    
+}
+body{
+    margin:0px;
+    background-color:#2d3836
+}
+.footer{
+    display:box;
+    justify-content: flex-start;
+}
+H2{
+    COLOR : rgba(35, 74, 78, 0.733);
+    text-align:left;
+}
